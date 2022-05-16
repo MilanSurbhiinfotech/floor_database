@@ -39,6 +39,8 @@ dependencies:
   retrofit_generator: ^3.0.1+1
   retrofit: ^3.0.1+1
   dio: ^4.0.6
+  fluttertoast: ^6.0.1
+  loader_overlay: ^2.0.6
 
 dev_dependencies:
   flutter_test:
